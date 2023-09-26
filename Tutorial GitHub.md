@@ -14,7 +14,7 @@
 
 -   kalau berhasil klik kanan di desktop dan muncul **GIT BASH HERE**
 
-> ![](./image11.png){width="2.166778215223097in"
+> ![](image/image11.png){width="2.166778215223097in"
 > height="2.833478783902012in"}
 
 **\# Repository Tugas Praktikum Pengantar Pemrograman 2022**
