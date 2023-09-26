@@ -26,8 +26,7 @@ Catatan: di bawah ini SS saat saya coba kumpul tugas di repository
 LABPP_2022_5 , **karena kalian kelompok 7 jadi kumpul tugas nya di
 repository LAB-WEB-7-2023**
 
-1.  Fork repositori ini
-    > [[https://github.com/Muhammadrizuki/LAB-WEB-7-2023]](https://github.com/Muhammadrizuki/LAB-WEB-7-2023)
+1.  **Fork repositori ini [[https://github.com/Muhammadrizuki/LAB-WEB-7-2023]](https://github.com/Muhammadrizuki/LAB-WEB-7-2023)**
 
 -   Klik fork di kanan atas
 
