@@ -43,11 +43,9 @@ repository LAB-WEB-7-2023**
 
 ![](image/image11.png)
 
-**git clone
-[[https://github.com/YOUR_USERNAME/LAB-WEB-7-2023.git]{.underline}](https://github.com/YOUR_USERNAME/LABPP_2022_5.git)**
+**git clone [[https://github.com/YOUR_USERNAME/LAB-WEB-7-2023.git]](https://github.com/YOUR_USERNAME/LAB-WEB-7-2023.git)**
 
-![](image/image6.png){width="6.268055555555556in"
-height="1.7236111111111112in"}
+![](image/image6.png)
 
 -   Klo sukses ntar ada folder baru sesuai nama repo yg di bikin tadi
 
@@ -57,13 +55,11 @@ height="1.7236111111111112in"}
 -   Kemudian lihat desktop ( tampilan layar utama pada sistem operasi
     windows) nanti otomatis ada folder yang namanya sesuai repo tdi
 
-> ![](image/image27.png){width="2.4479166666666665in"
-> height="3.0729166666666665in"}
+> ![](image/image27.png)
 
 -   Skrng coba buka isi folder nya dan buat folder baru pake NIM anda
 
-![](image/image12.png){width="6.268055555555556in"
-height="2.316666666666667in"}
+![](image/image12.png)
 
 Setelah itu buka foldernya dan bkin lagi folder baru dengan nama
 praktikum
