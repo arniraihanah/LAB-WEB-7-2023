@@ -18,9 +18,9 @@
 
 > ![](image/image11.png)
 
-**\# Repository Tugas Praktikum Pengantar Pemrograman 2022**
+## Repository Tugas Praktikum Pengantar Pemrograman 2022
 
-**\## Alur pengumpulan tugas ke repositori ini**
+### Alur pengumpulan tugas ke repositori ini
 
 Catatan: di bawah ini SS saat saya coba kumpul tugas di repository
 LABPP_2022_5 , **karena kalian kelompok 7 jadi kumpul tugas nya di
@@ -181,13 +181,13 @@ Contoh :
 
 ![](image/image22.png)
 
-**\## Hal-hal yang harus diperhatikan**
+## Hal-hal yang harus diperhatikan
 
-\- \[x\] Cara mengumpulkan tugas sesuai dengan aturan diatas.
+- \[x\] _**Cara mengumpulkan tugas sesuai dengan aturan diatas**_.
 
-\- \[x\] \_\*\*Satu Praktikum, Satu Folder\*\*\_.
+- \[x\] _**Satu Praktikum, Satu Folder**_.
 
-\- \[x\] \_\*\*Satu Soal, Satu Class\*\*\_.
+- \[x\] _**Satu Soal, Satu Class**_.
 
-\- \[x\] \_\*\*Program Berjalan dengan Baik dan Benar Berdasarkan
-Ketentuan Tugas\*\*\_.
+- \[x\] _**Program Berjalan dengan Baik dan Benar Berdasarkan
+Ketentuan Tugas**_.
