@@ -1,13 +1,15 @@
+#Tutorial GitHub
+
 **DAFTAR GITHUB**
 
-\- Link : [[https://github.com/]{.underline}](https://github.com/)
+\- Link : [[https://github.com/]](https://github.com/)
 
 \- Daftar seperti biasa
 
 **INSTALL GIT DI WINDOWS**
 
 -   silahkan install dlu git di windows Link :
-    > [[https://git-scm.com/download/win]{.underline}](https://git-scm.com/download/win)
+    > [[https://git-scm.com/download/win]](https://git-scm.com/download/win)
     > (pilih yg setup 64/32)
 
 -   install seperti biasa
@@ -22,11 +24,11 @@
 **\## Alur pengumpulan tugas ke repositori ini**
 
 Catatan: di bawah ini SS saat saya coba kumpul tugas di repository
-LABPP_2022_5 , **karena kalian kelompok 1 jadi kumpul tugas nya di
-repository LAB-BASDAT-1-2023**
+LABPP_2022_5 , **karena kalian kelompok 7 jadi kumpul tugas nya di
+repository LAB-WEB-7-2023**
 
 1.  **Fork repositori ini
-    > [[https://github.com/Awangnugrawan/LAB-BASDAT-1-2023]{.underline}](https://github.com/Awangnugrawan/LAB-BASDAT-1-2023)**
+    > [[https://github.com/Muhammadrizuki/LAB-WEB-7-2023]](https://github.com/Muhammadrizuki/LAB-WEB-7-2023)**
 
 -   Klik fork di kanan atas
 
