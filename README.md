@@ -27,28 +27,25 @@ Catatan: di bawah ini SS saat saya coba kumpul tugas di repository
 LABPP_2022_5 , **karena kalian kelompok 7 jadi kumpul tugas nya di
 repository LAB-WEB-7-2023**
 
-1.  **Fork repositori ini
-    > [[https://github.com/Muhammadrizuki/LAB-WEB-7-2023]](https://github.com/Muhammadrizuki/LAB-WEB-7-2023)**
+1.  Fork repositori ini
+    > [[https://github.com/Muhammadrizuki/LAB-WEB-7-2023]](https://github.com/Muhammadrizuki/LAB-WEB-7-2023)
 
 -   Klik fork di kanan atas
 
-![](image/image3.png){width="6.268055555555556in"
-height="2.2819444444444446in"}
+![](image/image3.png)
 
 -   Setelah itu klik create fork
 
-![](image/image10.png){width="6.268055555555556in"
-height="2.5555555555555554in"}
+![](image/image10.png)
 
 2.  **CLONE** repository hasil **fork** anda
 
 -   klik kanan di desktop trus pilih GIT BASH HERE
 
-![](image/image11.png){width="2.166778215223097in"
-height="2.833478783902012in"}
+![](image/image11.png)
 
 **git clone
-[[https://github.com/YOUR_USERNAME/LABPP_2022_5.git]{.underline}](https://github.com/YOUR_USERNAME/LABPP_2022_5.git)**
+[[https://github.com/YOUR_USERNAME/LAB-WEB-7-2023.git]{.underline}](https://github.com/YOUR_USERNAME/LABPP_2022_5.git)**
 
 ![](image/image6.png){width="6.268055555555556in"
 height="1.7236111111111112in"}
@@ -72,19 +69,17 @@ height="2.316666666666667in"}
 Setelah itu buka foldernya dan bkin lagi folder baru dengan nama
 praktikum
 
-![](image/image2.png){width="6.268055555555556in"
-height="1.9333333333333333in"}
+![](image/image2.png)
 
 -   Lanjut coba buat file baru di dalam folder praktikum 1 tdi misal
     test.txt trus isi file nya bebas
 
-![](image/image20.png){width="6.268055555555556in" height="2.18125in"}
+![](image/image20.png)
 
 -   Klo udah, dari terminal yg tadi kita masuk ke foldernya ketik cd
     nama folder
 
-![](image/image14.png){width="4.73635498687664in"
-height="0.9444925634295713in"}
+![](image/image14.png)
 
 **PUSH FILE**
 
@@ -97,8 +92,7 @@ Pilih-pilih folder/file yang mau diupload
 
 Contoh
 
-![](image/image17.png){width="4.729409448818898in"
-height="0.7708727034120735in"}
+![](image/image17.png)
 
 Artinya Semua file di folder tersebut bakal di push
 
@@ -111,106 +105,87 @@ Contoh :
 
 -   " git commit -m "latihan" "
 
-![](image/image16.png){width="4.937753718285214in"
-height="1.0833891076115485in"}
+![](image/image16.png)
 
 -   git push =\> fungsinya untuk upload ke git
 
-![](image/image21.png){width="4.396059711286089in"
-height="0.4375229658792651in"}
+![](image/image21.png)
 
 -   Akan muncul perintah untuk login , masukkan usernamenya kalian dan
     untuk password itu isinya adalah token
 
-![](image/image15.png){width="4.132156605424322in"
-height="4.277997594050744in"}
+![](image/image15.png)
 
 -   Untuk dapatkan token, klik profil 🡪 klik settings
 
-![](image/image19.png){width="2.007047244094488in"
-height="4.11132217847769in"}
+![](image/image19.png)
 
 -   Terus scrool ke bawah klik developer settings
 
-![](image/image26.png){width="2.1737226596675416in"
-height="4.048818897637795in"}
+![](image/image26.png)
 
 -   Klik bagian personal akses tokens dan generate new token
 
-![](image/image29.png){width="6.268055555555556in"
-height="1.1291666666666667in"}
+![](image/image29.png)
 
 -   Pilih yang no expiration, supaya tiap mau uplod file tidak perlu
     login ulang lagi
 
-![](image/image23.png){width="5.423889982502187in"
-height="3.4237871828521436in"}
+![](image/image23.png)
 
 -   Centang repo
 
-![](image/image24.png){width="6.1322594050743655in"
-height="3.215442913385827in"}
+![](image/image24.png)
 
 -   Scrool ke bawah dan klik generate token
 
-![](image/image25.png){width="6.268055555555556in"
-height="3.3569444444444443in"}
+![](image/image25.png)
 
 -   Copy tokennya untuk dimasukkan nanti dibagian password
 
-![](image/image28.png){width="6.268055555555556in"
-height="2.5069444444444446in"}
+![](image/image28.png)
 
 -   Kembali ke yang tadi disuruh login, paste token nya ke dalam
     password
 
-![](image/image18.png){width="4.090487751531058in"
-height="4.319666447944007in"}
+![](image/image18.png)
 
 -   Isi usernamenya sesuai dgn yang ada di git , ini usernamenya sama ji
     kyak tdi
 
-![](image/image13.png){width="3.6321314523184602in"
-height="1.6320286526684165in"}
+![](image/image13.png)
 
 -   Tokennya juga sama kyk tdi paste ke password
 
-![](image/image4.png){width="3.583517060367454in"
-height="1.5625798337707786in"}
+![](image/image4.png)
 
 -   Setelah berhasil coba buka kembali cmd nya, kalau berhasil muncul
     seperti di bawah ini, 100%
 
-![](image/image1.png){width="5.507227690288714in"
-height="1.8612062554680664in"}
+![](image/image1.png)
 
 -   Setelah di git push itu artinya sudah terkirim ke github, sekarang
     kembali ke halaman github, terus klik pull request
 
-![](image/image8.png){width="6.268055555555556in"
-height="1.992361111111111in"}
+![](image/image8.png)
 
 -   Klik yang di sebelah kanan, new pull request
 
-![](image/image5.png){width="6.268055555555556in"
-height="1.854861111111111in"}
+![](image/image5.png)
 
 -   Lanjut, klik lagi create pull request
 
-![](image/image9.png){width="6.268055555555556in"
-height="2.723611111111111in"}
+![](image/image9.png)
 
 -   Lanjut, klik lagi create pull request. Jika mau tambahkan coment
     bisa juga
 
-![](image/image7.png){width="6.268055555555556in"
-height="3.446527777777778in"}
+![](image/image7.png)
 
 -   Nah kalau sudah selesai akan muncul tampilan seperti di bawah,
     artinya sudah di serahkan tinggal tunggu untuk saya nilai dan acc
 
-![](image/image22.png){width="6.268055555555556in"
-height="3.9305555555555554in"}
+![](image/image22.png)
 
 **\## Hal-hal yang harus diperhatikan**
 
@@ -222,6 +197,3 @@ height="3.9305555555555554in"}
 
 \- \[x\] \_\*\*Program Berjalan dengan Baik dan Benar Berdasarkan
 Ketentuan Tugas\*\*\_.
-
-Kalau ada error atau ada yang mau ditanyakan silahkan hubungi WA ku,
-wa.me/+6282191862002 (Awang)
